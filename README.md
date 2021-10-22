@@ -76,8 +76,9 @@ Below are the screenshots shows UI of our Customer Phone Management System App:
 
 Run A Spring Application is the easiest thing on the because Spring Boot Application arives with embeded application Server (TomCat) and it allow us to run the project with few lines of code. 
 On your IDE terminal run the follows scrpts:
-  1 - mvn clean package
-  2 - java -jar target/myJavaProject.jar
+   - (1) mvn clean package
+   - (2) java -jar target/myJavaProject.jar
+
 After that the server will be running on port 8080.  
   
  Another simple way is go Inside the project folder, open CMD and your run this code: **java -jar target/appCustomer-0.0.1-SNAPSHOT.jar** If all goes well, the application will be running on localhost on **port 8080**.
@@ -86,8 +87,9 @@ After that the server will be running on port 8080.
 
 Run A Spring Application is the easiest thing on the because Spring Boot Application arives with embeded application Server (TomCat) and it allow us to run the project with few lines of code. 
 First of all make your that you hava the Node and NPM installed and then you can run the frontend with this two steps inside the frontend folder:
-  1- npm install
-  2 - ng serve
+   - (1) npm install
+   - (2) ng serve
+
 After that the server will be running on port 4200.
 
 ## Using Docker ##
